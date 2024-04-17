@@ -8,11 +8,32 @@
     color:#000;
 }
 
+/* 글자 */
+
 h1 {
     font-size: 48px;
     font-weight: 100;
 }
 
+
+.contents1 {
+    font-size: 20px;
+    font-weight:lighter;
+
+}
+
+.contents2 {
+    font-size: 18px;
+}
+
+.contents3 {
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.result{
+    font-size: 24px;
+}
 
 
 .intro_bg{
@@ -81,7 +102,7 @@ h1 {
     margin:231px auto 231px auto;
    
     text-align: center ;
-    background-color: red;
+    background-color: ;
 }
 
 .intro_text > h1{
